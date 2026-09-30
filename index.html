@@ -893,7 +893,7 @@
             <div class="lesson past-lesson" data-week-type="both" data-subgroup="all" data-lesson-type="lecture" data-presentation-enhanced="1">
                 <div class="time">9:40–11:10</div>
                 <div class="subject-info">
-                    <span class="lesson-type-badge">📘 Лекция</span><div class="subject-title">Элективные дисциплины по физической культуре и спорту</div><div class="lesson-meta"><span class="teacher-meta">👤  к. ю. н., Гурьянова В. В.</span><span class="room-badge">📍 ауд. 220, к. 1</span></div></div>
+                    <span class="lesson-type-badge">📘 Лекция</span><div class="subject-title">Финансовое право</div><div class="lesson-meta"><span class="teacher-meta">👤  к. ю. н., Гурьянова В. В.</span><span class="room-badge">📍 ауд. 220, к. 1</span></div></div>
             </div>
         </div>
 
