@@ -916,10 +916,7 @@
 
         <!-- Нижний блок (Футер) -->
         <div class="footer">
-            <img src="%D0%9C%D0%BE%D1%91%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%E2%80%94%20%D0%9A%D0%93%D0%90%D0%A1%D0%A3_files/rofl_nAQ-.gif" alt="Анимация" class="footer-gif">
-            <a href="https://t.me/hu_nyu" target="_blank" class="tg-link">
-                ✈️ Связаться в Telegram
-            </a>
+            <img src=""C:\Users\hunyu\OneDrive\Desktop\реальноимела\rofl_nAQ-.gif"" alt="Анимация" class="footer-gif">
             <div>
                 Неофициальный студенческий проект. Сайт не связан с администрацией РГУПа. Расписание носит информационный характер, актуальную информацию уточняйте на официальных ресурсах вуза.
             </div>
